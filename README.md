@@ -1,3 +1,3 @@
-# AndroidAppDevelopment-MPSTME-
+# AndroidAppDevelopment
 ---
 ### This repository was created to submit assignments for the subject Android App development
